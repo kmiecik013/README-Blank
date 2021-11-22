@@ -1,5 +1,5 @@
 # Michael's Notes
-My name is [Michael](https://github.com/kmiecik013) , i am a [Lighhouse Lab](https://www.lighthouselabs.ca/) Student
 
-###### TATATA
+### SUMMARY 
+This repository contains all the notes from [Michael](https://github.com/kmiecik013) for the  [Lighhouse Lab](https://www.lighthouselabs.ca/) bootcamp 
 
